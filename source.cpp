@@ -99,8 +99,5 @@ int main() {
 	cout << "\nTriangle V:\n" << V;
 	cout << "\nTriangle W (with an altered point value):\n" << W;
 	cout << "\nAre V and W similar?: " << V.isSimilar(W) << endl;
-	while (1) {
-
-	}
 	return 0;
 }
